@@ -1,1 +1,1 @@
-# Ordgissningsspel
+Vi har skapat ett gemensamt repo. Vi börjat koda koden till ett sten, sax eller påse spel. 
